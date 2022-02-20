@@ -4,25 +4,21 @@ def add(x,y):
 #sub implementation	
 def subtract(x,y):
 
-    #bug456
+   
 
 #multiply implementation	
 def multiply(x,y):
-    return (x*y) #bug456
+    return (x*y) #
 #multiply implementation	
 def multiply(x,y):
-    return(x*y)        #master branch
+    return(x*y)        
 
 #divide implementation	
 def divide(x,y):
 
-    return (x/y)    #master branch
+    return (x/y)    
 
-    if y==0:           # on bug 789
-		return DIVIDE_BY_0_ERROR
-	else
-	return x/y;
-	
+#multiplyimplementation	
 def module(x,y)
 	return(x%y)
 
